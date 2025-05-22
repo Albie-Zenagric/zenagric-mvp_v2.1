@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "zenagric-supabase": {
+      "command": "node",
+      "args": [
+        "C:/Users/albye/OneDrive/Documents/Cline/MCP/supabase-server/build/index.js"
+      ],
+      "env": {
+        "SUPABASE_URL": "https://qkfpmkrqwvssakvdmwtz.supabase.co",
+        "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrZnBta3Jxd3Zzc2FrdmRtd3R6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0Nzg5Mzc1MSwiZXhwIjoyMDYzNDY5NzUxfQ.eAb-pGAHJDP_kE9cWisczsi6HGftmA2tFNSFgZ-r048"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
